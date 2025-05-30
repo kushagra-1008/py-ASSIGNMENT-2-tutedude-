@@ -12,7 +12,7 @@ Then, i have used the MOD function for defining 'odd' numbers and 'even' numbers
 At last, I have used conditions for printing output as even or odd number.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-***Task 2: Sum of Integers from 1 to 50 Using a Loop***
+**Task 2: Sum of Integers from 1 to 50 Using a Loop**
  
 Problem Statement: Write a Python program that:
 1.   Uses a for loop to iterate over numbers from 1 to 50.
