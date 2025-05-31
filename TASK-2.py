@@ -1,7 +1,7 @@
-n = int(input('tell the number upto which you want to find the sum: '))
+n = 50
 a=0
 
-for i in range(1,n+1):
+for i in range(1,50+1):
     a+=i
 
-print(f'The sum of numbers from 1 to {n} is {a}')
+print(f'The sum of numbers from 1 to 50 is {a}')
