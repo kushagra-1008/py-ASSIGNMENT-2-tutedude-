@@ -1,5 +1,3 @@
-# py-ASSIGNMENT-2-tutedude-
-
 Task 1: Check if a Number is Even or Odd
 -
 Problem Statement:  Write a Python program that:
